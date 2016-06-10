@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<words>
+	<word>
+		<text>orm</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>ko</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>mask</text>
+		<type>img</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>mus</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>lamm</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>apa</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>sol</text>
+		<type>anim</type>
+		<bg>plain</bg>
+	</word>
+</words>
+	

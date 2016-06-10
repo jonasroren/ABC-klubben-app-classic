@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<words>
+	<word>
+		<text>älg</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>räka</text>
+		<type>anim</type>
+		<bg>ocean</bg>
+	</word>
+	<word>
+		<text>räv</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>åsna</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>råtta</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>ubåt</text>
+		<type>anim</type>
+		<bg>ocean</bg>
+	</word>
+	<word>
+		<text>uggla</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>kanin</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>gädda</text>
+		<type>anim</type>
+		<bg>ocean</bg>
+	</word>
+	<word>
+		<text>åska</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+</words>
+	

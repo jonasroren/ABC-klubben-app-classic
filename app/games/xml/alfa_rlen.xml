@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<words>
+	<word>
+		<text>lejon</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>larv</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>ren</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>ekorre</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>kamel</text>
+		<type>anim</type>
+		<bg>plain</bg>
+	</word>
+	<word>
+		<text>lamm</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>säl</text>
+		<type>anim</type>
+		<bg>ocean</bg>
+	</word>
+	<word>
+		<text>lok</text>
+		<type>anim</type>
+		<bg>plain</bg>
+	</word>
+	<word>
+		<text>val</text>
+		<type>anim</type>
+		<bg>ocean</bg>
+	</word>
+</words>
+	

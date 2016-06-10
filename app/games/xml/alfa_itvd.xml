@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<words>
+	<word>
+		<text>iller</text>
+		<type>img</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>tiger</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>delfin</text>
+		<type>anim</type>
+		<bg>ocean</bg>
+	</word>
+	<word>
+		<text>drake</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>krokodil</text>
+		<type>anim</type>
+		<bg>ocean</bg>
+	</word>
+	<word>
+		<text>svan</text>
+		<type>anim</type>
+		<bg>ocean</bg>
+	</word>
+	<word>
+		<text>tax</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>tårta</text>
+		<type>anim</type>
+		<bg>plain</bg>
+	</word>
+	<word>
+		<text>katt</text>
+		<type>anim</type>
+		<bg>land</bg>
+	</word>
+	<word>
+		<text>diamant</text>
+		<type>img</type>
+		<bg>plain</bg>
+	</word>
+</words>
+	
